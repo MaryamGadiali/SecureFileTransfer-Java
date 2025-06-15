@@ -1,4 +1,4 @@
-# SecureFileTransfer---Java
+# SecureFileTransfer-Java
 
 This project implements a secure client-server file transfer system in Java using public key cryptography (RSA) and symmetric key encryption (AES). It includes practical application of cryptographic concepts using the Java Cryptography API.
 
